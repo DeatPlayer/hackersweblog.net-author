@@ -5,7 +5,7 @@ birth: 1997-03-27
 social:
   https://github.com/DeatPlayer: github
 avatar: avatar.jpg
-lang: de, en
+lang: en
 contentgrant: hackersweblog.net
 ---
 *Hey!*
